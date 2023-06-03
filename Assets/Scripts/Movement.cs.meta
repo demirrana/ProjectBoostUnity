@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: e23e71ae630af134999f4f5649e4714b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - thrustSound: {fileID: 8300000, guid: cda70d83632ece044ae595911ff2a356, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
